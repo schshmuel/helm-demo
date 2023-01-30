@@ -1,0 +1,8 @@
+global:
+  imageRegistry: "blabla2"
+  ## E.g.
+  ## imagePullSecrets:
+  ##   - myRegistryKeySecretName
+  ##
+  imagePullSecrets: []
+  storageClass: ""
